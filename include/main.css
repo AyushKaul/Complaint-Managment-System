@@ -1,0 +1,83 @@
+body {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+}
+
+td {
+	font-family: 'Pacifico', cursive;
+	font-size: 22px;
+	height: 100%;
+}   
+
+th {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+}
+
+form {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+	}
+
+input {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+}
+
+textarea {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+}
+
+select {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+}
+
+ul {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+	list-style-type: disc;
+	list-style-position: outside;
+}
+
+li {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+}
+
+ol {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+	list-style-type: upper-roman;
+	list-style-position: outside;
+}
+
+.small {
+	font-family: 'Pacifico', cursive;
+	font-size: 9px;
+}
+
+.big {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+}
+
+.bodystyle {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+}
+
+.box1 {
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+
+.box2 {
+	border-width: 3px;
+	border-style: solid;
+	padding: 5px;
+}
+
